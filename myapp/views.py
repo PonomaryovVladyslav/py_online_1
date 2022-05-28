@@ -11,7 +11,7 @@ def another(request):
 
 
 def main_article(request):
-    return HttpResponse('There will be a list with articles')
+    return HttpResponse('There blabla be a list with articles')
 
 
 def uniq_article(request):
